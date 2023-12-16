@@ -1,0 +1,33 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    width: 1297px;
+}
+
+.btn-itd {
+    color: white;
+}
+
+.address {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.address p {
+    border-bottom: 2px dashed #D3B288;
+}
+
+.address img {
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+
+/* NAV-FINISHED */
+
+.header-bg {
+    background-image:url(img/bg.png);
+    height: 700px;
+}
