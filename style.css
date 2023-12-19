@@ -142,6 +142,7 @@ header {
     background-color: #D3B288;
     margin-right: 24px;
     margin-bottom: 10px;
+    margin-top: 120px;
 }
 
 .item-border {
@@ -156,4 +157,50 @@ header {
 .item-border p {
     color: white;
     margin-top: 180px;
+}
+
+.items-block {
+    background-color: #fdf3e4;
+    align-items: center;
+    height: 505px;
+}
+
+.row-itd {
+    align-items: center;
+    margin-top: 110px;
+}
+
+.items-block h1 {
+    margin-top: 110px;
+}
+
+/* ITEMS FINISHED */
+
+.results {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.itd-results {
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.itd-results h1 {
+    color: #D3B288;
+}
+
+.col-itd a {
+    background-color: #D3B288;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.col-itd {
+    text-align: right;
+}
+
+.row-img-itd img {
+    margin-bottom: 10px;
 }
